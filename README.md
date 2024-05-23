@@ -1,4 +1,4 @@
-# Project Title
+# Solidity
 
 Solidity Project
 
@@ -24,9 +24,9 @@ In this project, there's a lot o aspect that you need to know about solidity. In
 code blocks for commands
 ```
 
-## Help
+## Advice & Tips
 
-It can be hectic in first, but if you will get used to you will eventually handle the programs
+It can be hectic at first, but if you will get used to you will eventually handle the programs
 ```
 command to run if program contains helper info
 ```
